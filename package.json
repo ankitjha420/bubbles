@@ -1,6 +1,7 @@
 {
     "name": "bubbles",
     "private": true,
+    "homepage": "https://ankitjha420.github.io/bubbles/",
     "version": "0.0.0",
     "type": "module",
     "author": "ankit",
